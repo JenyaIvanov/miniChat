@@ -21,4 +21,4 @@ Administrator commands:
   motd - message of the day
 
 # Credits:
-Testers: Dani (Denis) Kogel ([@Kogwork](https://github.com/Kogwork))
+**Testers:** Dani (Denis) Kogel ([@Kogwork](https://github.com/Kogwork))
