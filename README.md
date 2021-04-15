@@ -18,7 +18,7 @@ Currently the server supports the following commands:
 Administrator commands:
 !rcon <password>, !motd <on/off>, !kick <username>.
   
-  rcon - administrator login
+  rcon - administrator login  
   motd - message of the day
 
 # Credits:
