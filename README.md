@@ -17,6 +17,7 @@ Currently the server supports the following commands:
 !pm(private message), !online, !credits, !help.
 Administrator commands:
 !rcon <password>, !motd <on/off>, !kick <username>.
+  
   rcon - administrator login
   motd - message of the day
 
